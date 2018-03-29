@@ -1,6 +1,3 @@
-# Exercise 1
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
+> “You know you’re in love when you can’t fall asleep because reality is finally better than your dreams.”
 
-In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
-
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+[Read more: ](http://www.keepinspiring.me/famous-quotes/#ixzz5B6hYdtPI")
